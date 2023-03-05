@@ -26,3 +26,9 @@ so: SYNC, CTRL, <CCID commmand>, LRC
 
 The SEC1210 information: https://www.microchip.com/en-us/product/SEC1210
 
+sim card slot used. \
+slot1: 115J-BCO0 \
+slot2: 115J-ACO0 \
+you can find the sim sockets by https://www.tme.eu/
+
+slot1 hase the 2 extra pads C4 and C8.
