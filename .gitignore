@@ -14,6 +14,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 Hardware/nard_sam-backups
+*.lck
 
 # Netlist files (exported from Eeschema)
 *.net

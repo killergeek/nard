@@ -1,3 +1,4 @@
 (sym_lib_table
+  (version 7)
   (lib (name "nard_sam")(type "KiCad")(uri "${KIPRJMOD}/nard_sam.kicad_sym")(options "")(descr ""))
 )
